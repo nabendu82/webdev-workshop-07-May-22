@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps:wght@400;700&display=swap');
+
+body{
+    background-color: #ffe6e6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-1{
+    background-color: lightblue;
+    padding: 10px;
+}
+
+h1{
+    color: darkmagenta;
+}
+
+h3{
+    color: rgb(0, 0, 77);
+}
+
+/* div {
+    font-size: 10px;
+} */
+
+p{
+    font-family: 'Oleo Script Swash Caps', Arial, Helvetica, sans-serif;
+    color: hsl(336, 100%, 35%);
+    font-size: 1.4rem;
+    font-weight: bold;
+    line-height: 1.6rem;
+}
+
+#second-p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: hsl(69, 98%, 32%);
+    font-size: 1.2rem;
+    font-weight: normal;
+    line-height: 1.4rem;
+}
+
+.my-form{
+    padding: 20px;
+}
+
+.my-form .form-group{
+    padding-bottom: 10px;
+}
+
+.my-form label{
+    display: block;
+}
+
+.my-form .input-type{
+    padding: 8px;
+    width: 100%;
+}
+
+.button{
+    padding: 12px;
+    border: none;
+    background-color: darkmagenta;
+    color: white;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+
+.button:hover{
+    cursor: pointer;
+    background-color: darkblue;
+}
